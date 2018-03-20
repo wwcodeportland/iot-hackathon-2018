@@ -28,9 +28,8 @@ To discuss ideas with other participants prior to the event, join the tricider b
 Our primary hardware is from Adafruit ([hardware list](https://www.adafruit.com/wishlists/457925)). We also have Arduino 101 kits provided
 by Intel.
 
-You will need to install the Arduino IDE to program the device. Depending on your operating system, you may require drivers for the
-Feather HUZZAH. Follow the instructions [here](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide) to install 
-drivers and run the Blink Test and the Connecting via WiFi to make sure your system and WiFi are set up correctly.
+You will need to install the **Arduino IDE** to program the device. Depending on your operating system, you may require drivers for the
+**Feather HUZZAH**. Follow the instructions [here](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide) to install drivers and run the *Blink Test* and the *Connecting via WiFi* to make sure your system and WiFi are set up correctly.
 
 Adafruit has several setup tutorials, videos, and articles available to help you familiarize yourself with the platform.
 - [Setup and Hello World](https://learn.adafruit.com/adafruit-io-basics-esp8266-arduino?view=all)
@@ -47,4 +46,4 @@ Please make sure you sign up for the [WWCode Portland Slack community](https://b
 The event hashtag is [#WWCodeHack18](https://twitter.com/hashtag/WWCodeHack18?src=hash). Tweet with this hashtag and/or tag us 
 in your tweets: [@wwcodeportland](https://twitter.com/wwcodeportland).
 
-Happy Hacking! 
+## Happy Hacking! 
