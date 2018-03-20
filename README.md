@@ -56,16 +56,24 @@ in your tweets: [@wwcodeportland](https://twitter.com/wwcodeportland).
 
 #### Saturday
 9:00 AM - 9:00 PM - Teams are hacking on their projects and mentors are assisting
+
 9:00 - Breakfast (Pop Bagels)
+
 12:30 - Breakfast (Theo's - sandwiches)
+
 6:00 - Dinner (Hotlips Pizza)
 
 #### Sunday
 9:00 AM - 1:30 PM - Teams are hacking on their projects and mentors are assisting
+
 9:00 - Breakfast (Green Zebra - assorted pastries)
+
 12:30 - Lunch (World Food - Mediterranean)
+
 1:30 - Announcements from Women Who Code
+
 2:00 - Presentations + Demos Begin
+
 4:30 - Winners Announced
 
 ## Happy Hacking! 
