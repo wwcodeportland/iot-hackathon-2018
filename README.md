@@ -14,7 +14,7 @@ Pleaase RSVP on Eventbrite if you haven't already: [iot-hackathon-2018.eventbrit
 and Lightning Talks.
 - **Sponsors Expo** -- Friday will begin with a Sponsors Expo featuring some of the most innovative tech companies in Portland. If you 
 are looking for a new opportunity, this will be a great oppotunity to network.
-- ** IoT Lightning Talks** -- we are scheduled to have two IoT lightning talks
+- **IoT Lightning Talks** -- we are scheduled to have two IoT lightning talks
 - **Team Assignments** -- We will assign teams to make sure the teams are well-balanced. If you already have you own team and do not 
 want to be assigned, please let us know at check-in.
 
