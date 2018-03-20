@@ -46,4 +46,26 @@ Please make sure you sign up for the [WWCode Portland Slack community](https://b
 The event hashtag is [#WWCodeHack18](https://twitter.com/hashtag/WWCodeHack18?src=hash). Tweet with this hashtag and/or tag us 
 in your tweets: [@wwcodeportland](https://twitter.com/wwcodeportland).
 
+## Weekend Schedule
+
+####  Friday
+6:00 - Doors Open + Dinner (Aprisa Mexican Cuisine) + Sponsors Expo
+7:00 - Welcome from Women Who Code + IoT Lightning Talks
+7:45 - Break for Sponsors Expo
+8:15 - Team assignments are announced
+
+#### Saturday
+9:00 AM - 9:00 PM - Teams are hacking on their projects and mentors are assisting
+9:00 - Breakfast (Pop Bagels)
+12:30 - Breakfast (Theo's - sandwiches)
+6:00 - Dinner (Hotlips Pizza)
+
+#### Sunday
+9:00 AM - 1:30 PM - Teams are hacking on their projects and mentors are assisting
+9:00 - Breakfast (Green Zebra - assorted pastries)
+12:30 - Lunch (World Food - Mediterranean)
+1:30 - Announcements from Women Who Code
+2:00 - Presentations + Demos Begin
+4:30 - Winners Announced
+
 ## Happy Hacking! 
