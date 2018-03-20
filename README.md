@@ -50,8 +50,11 @@ in your tweets: [@wwcodeportland](https://twitter.com/wwcodeportland).
 
 ####  Friday
 6:00 - Doors Open + Dinner (Aprisa Mexican Cuisine) + Sponsors Expo
+
 7:00 - Welcome from Women Who Code + IoT Lightning Talks
+
 7:45 - Break for Sponsors Expo
+
 8:15 - Team assignments are announced
 
 #### Saturday
