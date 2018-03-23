@@ -31,6 +31,18 @@ by Intel.
 You will need to install the **Arduino IDE** to program the device. Depending on your operating system, you may require drivers for the
 **Feather HUZZAH**. Follow the instructions [here](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide) to install drivers and run the *Blink Test* and the *Connecting via WiFi* to make sure your system and WiFi are set up correctly.
 
+### Install Steps (from the Installfest)
+1. https://learn.adafruit.com/adafruit-feather-huzzah-esp8266
+2. Installl the CP2104 VCP Drivers
+3. Install the Arduino IDE here!: https://arduino.cc/download
+- Add ESP8266 boards
+- Preferences > Additional Board Manager URLs
+- Board Manager – Search for ESP8266
+4. Run Blink Code
+- File > Examples > ESP8266 > Blink
+- Click Verify (If you don’t have a device)
+- Click Upload (If you do have a device)
+
 Adafruit has several setup tutorials, videos, and articles available to help you familiarize yourself with the platform.
 - [Setup and Hello World](https://learn.adafruit.com/adafruit-io-basics-esp8266-arduino?view=all)
 - [Adafruit IO Guides](https://www.adafruit.com/product/2680#tab_learn)
