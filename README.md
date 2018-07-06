@@ -32,13 +32,14 @@ You will need to install the **Arduino IDE** to program the device. Depending on
 **Feather HUZZAH**. Follow the instructions [here](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide) to install drivers and run the *Blink Test* and the *Connecting via WiFi* to make sure your system and WiFi are set up correctly.
 
 ### Install Steps (from the Installfest)
-1. https://learn.adafruit.com/adafruit-feather-huzzah-esp8266
-2. Installl the CP2104 VCP Drivers
-3. Install the Arduino IDE here!: https://arduino.cc/download
+These instructions largely follow https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide You can find more details and screenshots there.
+
+1. Install the CP2104 VCP Drivers (not necessary for Linux): https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+2. Install the Arduino IDE here!: https://arduino.cc/download
 - Add ESP8266 boards
-- Preferences > Additional Board Manager URLs
-- Board Manager – Search for ESP8266
-4. Run Blink Code
+- There's a text box under "Preferences > Additional Board Manager URLs". In the text box, enter http://arduino.esp8266.com/stable/package_esp8266com_index.json
+- Tools -> Board -> Board Manager – Search for ESP8266, then click the Install button.
+3. Run Blink Code
 - File > Examples > ESP8266 > Blink
 - Click Verify (If you don’t have a device)
 - Click Upload (If you do have a device)
